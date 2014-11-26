@@ -26,6 +26,11 @@
       <version>2.5</version>
       <scope>provided</scope>
     </dependency>
+    <dependency>
+      <groupId>info.magnolia.ui</groupId>
+      <artifactId>magnolia-ui-form</artifactId>
+      <version>${magnoliaVersion}</version>
+    </dependency>
 
     <!-- TEST -->
     <dependency>
